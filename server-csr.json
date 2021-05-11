@@ -1,0 +1,19 @@
+{
+    "hosts": [
+        "antelope.local",
+        "localhost",
+        "192.168.3.142"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "CA",
+            "L": "Vancouver",
+            "O": "Antelope",
+            "ST": "BC"
+        }
+    ]
+}

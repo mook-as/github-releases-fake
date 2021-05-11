@@ -1,0 +1,15 @@
+{
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "OU": "Certificate Authority",
+            "C": "CA",
+            "L": "Vancouver",
+            "O": "Antelope",
+            "ST": "BC"
+        }
+    ]
+}
